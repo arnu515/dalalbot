@@ -1,0 +1,397 @@
+general: arnu515#9699: arnu515: !timedmessage (1) bruh
+bot-commands: arnu515#9699: arnu515: !sendmessage ska
+bot-commands: arnu515#9699: arnu515: !sendmessage (general) sksnwd
+bot-commands: arnu515#9699: arnu515: !purge
+announcements: arnu515#9699: arnu515: **IP: pe.netherrealm.gq**
+**PORT: 19132**
+announcements: arnu515#9699: arnu515: @everyone
+general: Tostitos#0594: Tostitos: 🍴💩🍴😋
+general: Tostitos#0594: Tostitos: Yummy
+general: arnu515#9699: arnu515: !purge
+general: Tostitos#0594: Tostitos: UH OH
+general: Tostitos#0594: Tostitos: Stinky
+general: Tostitos#0594: Tostitos: 💩😋
+general: Tostitos#0594: Tostitos: 🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆
+general: Tostitos#0594: Tostitos: Play or more spam
+general: arnu515#9699: arnu515: !announce The server is now UP
+general: arnu515#9699: arnu515: new green rank for u
+general: arnu515#9699: arnu515: !announce connect using IP dalal.netherrealm.gq PORT 19132
+general: Tostitos#0594: Tostitos: Ok
+general: arnu515#9699: arnu515: wait
+general: arnu515#9699: arnu515: not now
+general: arnu515#9699: arnu515: dalal.netherrealm.gq is not
+general: arnu515#9699: arnu515: ready
+general: Tostitos#0594: Tostitos: Make it fast
+general: Tostitos#0594: Tostitos: Same world
+general: arnu515#9699: arnu515: come to voice1
+general: Tostitos#0594: Tostitos: Ok
+announcements: arnu515#9699: arnu515: !purge
+announcements: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !announce The server is UP with
+ **IP: dalal.netherrealm.gq PORT: 19132**
+bot-commands: Rythm#3722: Rythm: **Thank you for adding me!** ✅
+`-` My prefix here is `!`
+`-` You can see a list of commands by typing `!help`
+`-` You can change my prefix with `!settings prefix`
+`-` If you need help, feel free to join our support server at **<https://rythmbot.co/support>**
+**By having Rythm in your server and using Rythm, you agree to the following Terms of Service: <https://rythmbot.co/tos>**
+announcements: arnu515#9699: arnu515: !announce SERVER BACK UP @everyone
+bot-commands: arnu515#9699: arnu515: !dakak
+bot-commands: arnu515#9699: arnu515: !dalal
+general: Tostitos#0594: Tostitos: !play toto Africa
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `toto Africa`
+general: Rythm#3722: Rythm: **Playing** 🎶 `Toto - Africa (Official Music Video)` - Now!
+bot-commands: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !stop
+general: Rythm#3722: Rythm: **Paused** ⏸
+general: Tostitos#0594: Tostitos: !end
+general: Tostitos#0594: Tostitos: !disconnecr
+general: Tostitos#0594: Tostitos: !disconnect
+general: Rythm#3722: Rythm: ❌ **This command requires you to either have a role named `DJ` or `Manage Channels` permission to use it** (being alone with the bot also works)
+general: arnu515#9699: arnu515: !play fuck this shit im out
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `fuck this shit im out`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !play
+general: Rythm#3722: Rythm: ⏯ **Resuming** 👍
+general: arnu515#9699: arnu515: !purge
+general: Tostitos#0594: Tostitos: !play Adidas hardbass
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `Adidas hardbass`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !play sex kvass hardbass
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `sex kvass hardbass`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !play tripoloski hardbarr
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `tripoloski hardbarr`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !stop
+general: Rythm#3722: Rythm: **Paused** ⏸
+general: arnu515#9699: arnu515: !play Africa
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `Africa`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !play
+general: Rythm#3722: Rythm: ⏯ **Resuming** 👍
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !play kalinka
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `kalinka`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !play soviet anthem
+general: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `soviet anthem`
+general: Rythm#3722: Rythm: 
+general: arnu515#9699: arnu515: !next
+general: Rythm#3722: Rythm: ⏩ ***Skipped*** 👍
+general: arnu515#9699: arnu515: !stop
+general: Rythm#3722: Rythm: **Paused** ⏸
+general: arnu515#9699: arnu515: !disconnect
+general: Rythm#3722: Rythm: 📭 **Successfully disconnected**
+general: arnu515#9699: arnu515: !purge
+bot-commands: arnu515#9699: arnu515: !play despacito 2
+bot-commands: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `despacito 2`
+bot-commands: Rythm#3722: Rythm: **Playing** 🎶 `Despacito 2 (Parody Video)` - Now!
+bot-commands: arnu515#9699: arnu515: !stop
+bot-commands: Rythm#3722: Rythm: **Paused** ⏸
+general: arnu515#9699: arnu515: <@!511445518367588382> OI
+general: arnu515#9699: arnu515: COME YOU STUPID SHIT
+general: arnu515#9699: arnu515: !announce <@!511445518367588382> Appear thou nasty child!
+general: Tostitos#0594: Tostitos: Hello
+general: Tostitos#0594: Tostitos: I slept in
+general: Tostitos#0594: Tostitos: Sorry
+general: Tostitos#0594: Tostitos: I’m here
+general: Tostitos#0594: Tostitos: <@458595416045387777>
+general: Tostitos#0594: Tostitos: Come
+general: arnu515#9699: arnu515: K
+general: arnu515#9699: arnu515: Can you give my sister a starter pack?
+general: Tostitos#0594: Tostitos: Yep
+general: Tostitos#0594: Tostitos: On the house
+general: arnu515#9699: arnu515: she's gonna play now
+general: arnu515#9699: arnu515: ty
+general: Tostitos#0594: Tostitos: You gonna play?
+general: arnu515#9699: arnu515: No
+general: arnu515#9699: arnu515: Working on a thing
+general: Tostitos#0594: Tostitos: 
+general: Tostitos#0594: Tostitos: Alternate profile picture
+general: Tostitos#0594: Tostitos: Very simple
+general: arnu515#9699: arnu515: no
+general: arnu515#9699: arnu515: dabbing herobrine very essential <@!511445518367588382>
+general: Tostitos#0594: Tostitos: Turn on the server
+general: Tostitos#0594: Tostitos: <@458595416045387777>
+general: Tostitos#0594: Tostitos: Turn on the server
+general: arnu515#9699: arnu515: yes
+general: arnu515#9699: arnu515: its on
+general: Tostitos#0594: Tostitos: Can you play?
+general: arnu515#9699: arnu515: no
+general: Tostitos#0594: Tostitos: Fine
+general: arnu515#9699: arnu515: am working on a thing
+general: arnu515#9699: arnu515: before i forget it
+general: Tostitos#0594: Tostitos: <@458595416045387777>
+general: Tostitos#0594: Tostitos: Are you there
+general: arnu515#9699: arnu515: yes
+general: Tostitos#0594: Tostitos: Can you play now
+general: Tostitos#0594: Tostitos: You have a server
+general: Tostitos#0594: Tostitos: Play on it
+general: Tostitos#0594: Tostitos: It’s multiplayer for a reason
+general: arnu515#9699: arnu515: k
+general: Tostitos#0594: Tostitos: Get into voice 1
+general: arnu515#9699: arnu515: <@!511445518367588382> voice 1
+bot-commands: arnu515#9699: arnu515: !play attack of the dead men
+bot-commands: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `attack of the dead men`
+bot-commands: Rythm#3722: Rythm: **Playing** 🎶 `SABATON - The Attack of the Dead Men (Official Lyric Video)` - Now!
+bot-commands: arnu515#9699: arnu515: !stop
+bot-commands: Rythm#3722: Rythm: **Paused** ⏸
+general: Tostitos#0594: Tostitos: Fuck you
+general: arnu515#9699: arnu515: waht
+general: Tostitos#0594: Tostitos: Play properly or don’t fucking bother
+general: arnu515#9699: arnu515: i am playing
+general: Tostitos#0594: Tostitos: Stop joking and just TELL ME WHERE THE FUCK YOU ARE
+general: arnu515#9699: arnu515: why
+general: Tostitos#0594: Tostitos: I just want to play properly
+general: Tostitos#0594: Tostitos: Is not multiplayer if we’re just going to play alone
+general: arnu515#9699: arnu515: so
+general: arnu515#9699: arnu515: its a server
+general: Tostitos#0594: Tostitos: JUST TELL ME WHERE THE FUCK YOU ARE
+general: Tostitos#0594: Tostitos: Bitch
+general: Tostitos#0594: Tostitos: !disconnect
+general: Rythm#3722: Rythm: ❌ **This command requires you to either have a role named `DJ` or `Manage Channels` permission to use it** (being alone with the bot also works)
+general: arnu515#9699: arnu515: !purge
+bot-commands: arnu515#9699: arnu515: !disconnect
+bot-commands: Rythm#3722: Rythm: 📭 **Successfully disconnected**
+bot-commands: arnu515#9699: arnu515: !play earrape
+bot-commands: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `earrape`
+bot-commands: Rythm#3722: Rythm: **Playing** 🎶 `Veggie Tales Earrape` - Now!
+bot-commands: arnu515#9699: arnu515: !disconnect
+bot-commands: Rythm#3722: Rythm: 📭 **Successfully disconnected**
+bot-commands: arnu515#9699: arnu515: !purge
+general: Tostitos#0594: Tostitos: Phone died
+bot-commands: arnu515#9699: arnu515: !play toxic
+bot-commands: Rythm#3722: Rythm: <:youtube:335112740957978625> **Searching** 🔎 `toxic`
+bot-commands: Rythm#3722: Rythm: **Playing** 🎶 `Britney Spears - Toxic (Official Video)` - Now!
+bot-commands: arnu515#9699: arnu515: !disconnect
+bot-commands: Rythm#3722: Rythm: 📭 **Successfully disconnected**
+bot-commands: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> look in <#685785669750358039>
+general: Tostitos#0594: Tostitos: Hey <@687045731227533322>
+general: Tostitos#0594: Tostitos: Welcome to the server
+general: Mr MegaL#0518: Mr MegaL: <@&685786698256613396> Your toxic and i can't stand toxic kids
+general: arnu515#9699: arnu515: You're the one that stole items from that house
+general: arnu515#9699: arnu515: i was watching you
+general: arnu515#9699: arnu515: What do you have to say for yourself <@!687045731227533322>
+general: Mr MegaL#0518: Mr MegaL: i didn't steal anything
+general: arnu515#9699: arnu515: i saw you steal
+general: Mr MegaL#0518: Mr MegaL: wait was it a stone sword
+general: arnu515#9699: arnu515: and coal
+general: Mr MegaL#0518: Mr MegaL: Ok
+general: arnu515#9699: arnu515: stealing is stealing
+general: arnu515#9699: arnu515: and this server is PG
+general: arnu515#9699: arnu515: if you read the <#685785681691148300> you'd understand
+general: Mr MegaL#0518: Mr MegaL: I didn't curse though
+general: arnu515#9699: arnu515: you did
+general: arnu515#9699: arnu515: voice chat
+general: Mr MegaL#0518: Mr MegaL: lol
+general: Mr MegaL#0518: Mr MegaL: so toxic kid um so sorry man
+general: Mr MegaL#0518: Mr MegaL: but stop abusing your power
+general: Mr MegaL#0518: Mr MegaL: you gave the tostito kid armor and a shield
+general: Tostitos#0594: Tostitos: Nah man I got that myself
+general: Mr MegaL#0518: Mr MegaL: i highly doubt
+general: Mr MegaL#0518: Mr MegaL: that
+general: arnu515#9699: arnu515: do you want proog
+general: Tostitos#0594: Tostitos: I’ve been playing for a couple days now
+general: Mr MegaL#0518: Mr MegaL: i see cmds
+general: Mr MegaL#0518: Mr MegaL: ¯\_(ツ)_/¯
+general: arnu515#9699: arnu515: kk
+general: Tostitos#0594: Tostitos: It’s only iron it’s not that hard to get
+general: Tostitos#0594: Tostitos: There are two ravines near the spawn so it’s easy to get ore
+general: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> You have been accepted into the whitelist! Hope you have a great time
+bans: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> was banned 😦
+bans: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> is no longer banned! 🙂
+general: Mr MegaL#0518: Mr MegaL: U tried to ban me
+general: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> you have been unbanned! 🙂
+general: arnu515#9699: arnu515: Heres your proof @Mr MegaL
+general: arnu515#9699: arnu515: here's the proof that you wanted. Now can you se yourself openin chests?
+general: arnu515#9699: arnu515: that you were CLEARLY NOT SUPPOSED TO?
+general: arnu515#9699: arnu515: yes.
+general: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> you have been banned for griefing 😦
+bans: arnu515#9699: arnu515: !sendmessage <@!687045731227533322> (GrumblyLemur454) has been banned for griefing. Note from admin: If you want to join, just say so in the general chat. You will be unbanned.
+bot-commands: arnu515#9699: arnu515: !announce @everyone The server IP is dalal.netherrealm.gq
+general: Tostitos#0594: Tostitos: !purge
+general: Tostitos#0594: Tostitos: <@575405304062279701>
+general: Tostitos#0594: Tostitos: IP: dalal.netherrealm.gq
+general: Tostitos#0594: Tostitos: Port: 19132
+Direct Message with Captain_MooMoo#3923: Captain_MooMoo#3923: Captain_MooMoo: ok
+general: arnu515#9699: arnu515: hello <@!412302253525827586>
+general: Tostitos#0594: Tostitos: <@412302253525827586>
+general: Tostitos#0594: Tostitos: What’s up
+general: arnu515#9699: arnu515: join with the IP: dalal.netherrealm.gq
+general: Captain_MooMoo#3923: Captain_MooMoo: ok
+general: Captain_MooMoo#3923: Captain_MooMoo: it says i'm not invited Q_Q
+general: arnu515#9699: arnu515: whats your username
+general: arnu515#9699: arnu515: exactly typed
+general: arnu515#9699: arnu515: correct capitalisation
+general: arnu515#9699: arnu515: and make sure you're signed in to xbox live <@!412302253525827586>
+general: Captain_MooMoo#3923: Captain_MooMoo: Sorry... KuroKey1
+general: Captain_MooMoo#3923: Captain_MooMoo: xbox live?
+general: Captain_MooMoo#3923: Captain_MooMoo: what's that?
+general: arnu515#9699: arnu515: its fine
+general: arnu515#9699: arnu515: join
+general: Captain_MooMoo#3923: Captain_MooMoo: ok
+general: Captain_MooMoo#3923: Captain_MooMoo: OMG
+general: Captain_MooMoo#3923: Captain_MooMoo: It...it worked 😂
+general: Captain_MooMoo#3923: Captain_MooMoo: I"ll actually be able to play with others
+general: arnu515#9699: arnu515: im glad it did
+general: arnu515#9699: arnu515: !announce <@!412302253525827586> congratulations! You're accepted in the whitelist!
+general: arnu515#9699: arnu515: !purge
+general: arnu515#9699: arnu515: !sendmessage <@!412302253525827586> You've been accepted to this server 🎉
+general: arnu515#9699: arnu515: !sendmessage <@!412302253525827586> your username has been changed to your minecraft username! Note: This change only affects this server
+general: Tostitos#0594: Tostitos: <@651040527889989643>
+general: Tostitos#0594: Tostitos: Welcome
+general: MR.JOK3R#3508: MR.JOK3R: tq man
+general: Tostitos#0594: Tostitos: Do you wanna hop into the voice chat?
+general: MR.JOK3R#3508: MR.JOK3R: um actually no
+general: Tostitos#0594: Tostitos: That’s fine
+general: Tostitos#0594: Tostitos: What’s your Minecraft username
+general: MR.JOK3R#3508: MR.JOK3R: so the both of u guys playing minecraft now
+general: MR.JOK3R#3508: MR.JOK3R: wait
+general: MR.JOK3R#3508: MR.JOK3R: DanishXR45
+general: Tostitos#0594: Tostitos: Yeah I’m gonna go online now
+general: Tostitos#0594: Tostitos: So just join
+general: Tostitos#0594: Tostitos: I’ll be there
+general: MR.JOK3R#3508: MR.JOK3R: ok
+general: Tostitos#0594: Tostitos: The admin is on too
+general: MR.JOK3R#3508: MR.JOK3R: ok wait
+general: MR.JOK3R#3508: MR.JOK3R: gimme the ip adrres
+general: MR.JOK3R#3508: MR.JOK3R: and the port too
+general: arnu515#9699: arnu515: check <#685785669750358039>
+general: arnu515#9699: arnu515: or type !ip
+general: arnu515#9699: arnu515: !ip
+general: MR.JOK3R#3508: MR.JOK3R: ouh thx
+general: MR.JOK3R#3508: MR.JOK3R: it seems like our admins have utube
+general: arnu515#9699: arnu515: what do you mean?
+general: MR.JOK3R#3508: MR.JOK3R: i mean utube channel
+general: arnu515#9699: arnu515: do you know my utube channel
+general: MR.JOK3R#3508: MR.JOK3R: yeah
+general: arnu515#9699: arnu515: k good
+general: arnu515#9699: arnu515: join now
+general: MR.JOK3R#3508: MR.JOK3R: wait
+general: arnu515#9699: arnu515: !sendmessage <@!651040527889989643> Your username has been changed to match your minecraft username. Note: This change only affects this server 🙂
+general: MR.JOK3R#3508: MR.JOK3R: can't join
+general: MR.JOK3R#3508: MR.JOK3R: it says im not invited
+general: arnu515#9699: arnu515: is your username correct
+general: MR.JOK3R#3508: MR.JOK3R: wait
+general: arnu515#9699: arnu515: give me your exact minecraft username
+general: MR.JOK3R#3508: MR.JOK3R: wait no
+general: MR.JOK3R#3508: MR.JOK3R: oh god
+general: MR.JOK3R#3508: MR.JOK3R: DaNISHxR45
+general: MR.JOK3R#3508: MR.JOK3R: the real one
+general: arnu515#9699: arnu515: oh
+general: arnu515#9699: arnu515: try now
+general: arnu515#9699: arnu515: to join
+general: arnu515#9699: arnu515: <@!548708912086384651> Type !ip to get the ip and join the server
+general: arnu515#9699: arnu515: !ip
+general: ZeroRoar#1945: ZeroRoar: k
+general: ZeroRoar#1945: ZeroRoar: k
+general: arnu515#9699: arnu515: @everyone The server is up
+general: Captain_MooMoo#3923: Captain_MooMoo: nicee
+general: MR.JOK3R#3508: MR.JOK3R: ouh ok
+general: ZeroRoar#1945: ZeroRoar: !ip
+general: ZeroRoar#1945: ZeroRoar: !ip
+general: ZeroRoar#1945: ZeroRoar: !i
+general: arnu515#9699: arnu515: yoiu have to use [
+general: arnu515#9699: arnu515: 171.61.73.76
+general: arnu515#9699: arnu515: ad
+general: arnu515#9699: arnu515: as ip
+general: arnu515#9699: arnu515: boi.netherrealm.gq
+general: arnu515#9699: arnu515: dalal.netherrealm.gq
+general: arnu515#9699: arnu515: 171.61.73.76
+general: ZeroRoar#1945: ZeroRoar: i will off
+general: ZeroRoar#1945: ZeroRoar: byee
+general: arnu515#9699: arnu515: bye
+general: ZeroRoar#1945: ZeroRoar: cya @everyone
+general: zergpooh#9275: zergpooh: Cya
+general: arnu515#9699: arnu515: bye
+general: arnu515#9699: arnu515: Hello <@!628965537262731284>
+general: zergpooh#9275: zergpooh: Hi
+general: arnu515#9699: arnu515: can i have yor username pls
+general: zergpooh#9275: zergpooh: Teorbyin2010
+general: zergpooh#9275: zergpooh: But I’m already playing with somebody
+general: arnu515#9699: arnu515: !sendmessage <@!628965537262731284> your discord username has been changed to match your minecraft username. Note: This change only affects our discord server
+general: zergpooh#9275: zergpooh: Ok
+announcements: arnu515#9699: arnu515: !announce @everyone the server is now **UP** Join with !ip dalal.netherrealm.gq
+general: arnu515#9699: arnu515: !announce @everyone the server is now **UP** Join with !ip dalal.netherrealm.gq
+general: arnu515#9699: arnu515: !announce If the IP ever changes or the ip doesn't work, do !ip to get a dynamic IP that may change but will work. @everyone
+general: arnu515#9699: arnu515: !ip
+general: arnu515#9699: arnu515: !ip
+general: arnu515#9699: arnu515: !ip
+general: arnu515#9699: arnu515: !purge
+general-no-images: arnu515#9699: arnu515: !sendmessage 1 image(s) removed successfully.
+general-no-images: arnu515#9699: arnu515: I also added a filter to dalalbot
+general: Tostitos#0594: Tostitos: !ip
+general: Tostitos#0594: Tostitos: !announce gay sex is sin
+general: arnu515#9699: arnu515: oh my god
+general: Tostitos#0594: Tostitos: !announce sexy mom fart porn
+general: arnu515#9699: arnu515: can you not
+general: arnu515#9699: arnu515: \NONON\
+general: arnu515#9699: arnu515: HOW CAN YOU ANNOUNCE
+general: Tostitos#0594: Tostitos: !announce penis flavoured cock lollipops for 12 year old sluts
+general: arnu515#9699: arnu515: I SET IT TO ADMINS ONLY
+NOOO
+general: arnu515#9699: arnu515: WHAT
+general: arnu515#9699: arnu515: How
+general: Tostitos#0594: Tostitos: !announce poop sex Legends
+general: arnu515#9699: arnu515: nooooo
+general: Tostitos#0594: Tostitos: !announce cock nigger penis sandwich
+general: arnu515#9699: arnu515: wait
+general: Tostitos#0594: Tostitos: !announec rape ur mummy
+general: arnu515#9699: arnu515: nice
+general: arnu515#9699: arnu515: so tmr your course begins
+general: arnu515#9699: arnu515: !purge
+general: Tostitos#0594: Tostitos: Yeah
+general: arnu515#9699: arnu515: kk
+general: arnu515#9699: arnu515: can you install visual studio code
+general: arnu515#9699: arnu515: come to <#685785962936008724>
+general: Tostitos#0594: Tostitos: Weird question but do you use your phone on the toilet
+general: arnu515#9699: arnu515: !purge
+vip-chat: arnu515#9699: arnu515: Hello <@!511445518367588382>
+vip-chat: arnu515#9699: arnu515: come here
+vip-chat: arnu515#9699: arnu515: and yes, i do
+vip-chat: Tostitos#0594: Tostitos: Like while USING the toilet
+vip-chat: arnu515#9699: arnu515: yes
+vip-chat: Tostitos#0594: Tostitos: Great cuz I’m taking a mad shit rn
+vip-chat: Tostitos#0594: Tostitos: Bruh
+vip-chat: arnu515#9699: arnu515: !purge
+vip-chat: arnu515#9699: arnu515: REMOVE THE EVIDENCE
+vip-chat: Tostitos#0594: Tostitos: The fact that you had to purge that
+vip-chat: Tostitos#0594: Tostitos: Bruh
+vip-chat: arnu515#9699: arnu515: lol
+vip-chat: arnu515#9699: arnu515: neel
+vip-chat: Tostitos#0594: Tostitos: Ya
+vip-chat: arnu515#9699: arnu515: !timedmessage (3) U SUK
+vip-chat: Tostitos#0594: Tostitos: !timedmessage 69 gay sex
+vip-chat: arnu515#9699: arnu515: bruh
+vip-chat: Tostitos#0594: Tostitos: nooooooooo
+vip-chat: Tostitos#0594: Tostitos: How do I do the timed messages
+vip-chat: arnu515#9699: arnu515: its !timedmessage (69) gay sex
+vip-chat: arnu515#9699: arnu515: !purge
+vip-chat: Tostitos#0594: Tostitos: !timed message (999) Welcome to VIP Chat
+vip-chat: arnu515#9699: arnu515: nice
+vip-chat: arnu515#9699: arnu515: no space idot
+vip-chat: Tostitos#0594: Tostitos: Why
+vip-chat: Tostitos#0594: Tostitos: Between
+vip-chat: arnu515#9699: arnu515: timedmessage not timed message
+vip-chat: Tostitos#0594: Tostitos: Oh shit
+vip-chat: Tostitos#0594: Tostitos: !timedmessage (99) Welcome
+vip-chat: Tostitos#0594: Tostitos: !purge
+vip-chat: Tostitos#0594: Tostitos: !timedmessage (99999999999) Welcome to VIP Chat! You are a cut above the rest.
+vip-chat: Tostitos#0594: Tostitos: !timedmessage (69bruhgangshit69) test
+vip-chat: Tostitos#0594: Tostitos: !purge
+vip-chat: Tostitos#0594: Tostitos: !timedmessage (1234567890987654321) Test

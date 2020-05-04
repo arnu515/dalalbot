@@ -1,0 +1,39 @@
+**RULES**
+ 
+**Server Rules**:
+ 
+*Gameplay related rules*:
+1. Spawn is spawn. No building is allowed within the coordinates x:100 and z:100. (You can see your coordinates at the top left labelled Position. The first and last numbers are what x and z are. The middle is y.)
+ 
+2. PVP (Player vs Player) or hitting other players is not allowed, unless both parties are okay with it. You CANNOT spawn kill, kill or trap innocent players who have no interest in fighting you.
+ 
+3. No combat-logging. If you have agreed to a fight, you can't just chicken out and leave the game without finishing. If you win, well and good. If you lose, better luck next time. Combat logging is just bad sportsman ship.
+ 
+4. ABSOLUTELY NO GRIEFING. If a player has built something, you can't TOUCH it without their approval. If its in your land (more about land claiming later), you can get it removed by contacting us.
+ 
+5. No laggy mob farms
+ 
+6. Keep it family friendly. Make sure there are no signs, books or structures that violate this rule. If you do see one, take a screenshot of it and then feel free to destroy it. Please take a screenshot before and after its demise and send it to us #contact-staff
+ 
+7. No modifications that give you an advantage over other players (like xray or hacks). Night vision packs are allowed.
+ 
+8. Do use your common sense. Don't try to bypass these rules. We can ban you for violating an unwritten rule.
+ 
+*Chat related rules*:
+1. No swearing. Hey, we're kids after all!
+ 
+2. No cyberbullying. We have ZERO tolerance for cyberbullying
+ 
+3. No advertising.
+ 
+**Discord rules**:
+1. No swearing
+ 
+2. All commands have to be executed in !bot-commands (except !timed-message)
+ 
+3. No advertising
+ 
+4. No cyberbullying
+ 
+5. Do use your common sense. Don't try to bypass these rules. We can ban you for violating an unwritten rule.
+ 
